@@ -1,8 +1,10 @@
-def new_hash
-
+def new_hash(hash_name)
+  hash_name = { }
+  hash_name
 end
 
-def actor
+def actor(name)
+  actor = { }
 
 end
 
