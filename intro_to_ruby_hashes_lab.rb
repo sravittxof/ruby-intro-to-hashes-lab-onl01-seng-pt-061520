@@ -4,11 +4,11 @@ def new_hash
   new_hash = { }
   new_hash
 end
-binding.pry
+
 def actor
   actor = {:name => "Dwayne The Rock Johnson" }
-
 end
+binding.pry
 
 def monopoly
 	monopoly = {}
