@@ -18,11 +18,12 @@ def monopoly
 	    :names =>
 	    {
 	     },
-      :rent_in_dollars => {
+      :rent_in_dollars =>
+      {
         :
       }
     },
-    }
+  }
 
 end
 
