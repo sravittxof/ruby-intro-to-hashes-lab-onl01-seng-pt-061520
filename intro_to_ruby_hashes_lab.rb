@@ -51,8 +51,7 @@ def monopoly_with_third_tier
 	      },
 	      :shortline => {
 	      }
-binding.pry	
-      }
+      },
       :rent_in_dollars =>
       {
         :one_piece_owned => 25,
